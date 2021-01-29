@@ -1,0 +1,12 @@
+{
+    "api": {
+        "url": "http://10.120.101.22:4000"
+    },
+    "server": {
+        "port": 8080,
+        "sslPort": 463,
+        "sslEnabled": false,
+        "certeficateKey": null,
+        "certeficate": null
+    }
+}
